@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "e941",
+      "userId": 1,
+      "title": "Elad is the man",
+      "completed": true
+    },
+    {
+      "id": "f4e0",
+      "userId": 1,
+      "title": "this is a new list item",
+      "completed": true
+    },
+    {
+      "id": "83a6",
+      "userId": 1,
+      "title": "a",
+      "completed": true
+    }
+  ]
+}
